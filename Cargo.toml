@@ -1,0 +1,8 @@
+[package]
+edition = "2021"
+name = "lunatic-test"
+version = "0.1.0"
+
+[dependencies]
+lunatic = "0.7.1"
+serde = "*"
